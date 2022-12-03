@@ -57,7 +57,7 @@
             // drawBorderToolStripMenuItem
             // 
             this.drawBorderToolStripMenuItem.Name = "drawBorderToolStripMenuItem";
-            this.drawBorderToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.drawBorderToolStripMenuItem.Size = new System.Drawing.Size(141, 22);
             this.drawBorderToolStripMenuItem.Text = "Draw Border";
             this.drawBorderToolStripMenuItem.Click += new System.EventHandler(this.drawBorderToolStripMenuItem_Click);
             // 
@@ -65,7 +65,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(295, 181);
+            this.ClientSize = new System.Drawing.Size(301, 181);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
             this.Text = "Form1";
