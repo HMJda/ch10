@@ -45,7 +45,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(299, 294);
+            this.ClientSize = new System.Drawing.Size(298, 269);
             this.Controls.Add(this.txtInput);
             this.Name = "KeyboardExample";
             this.Text = " Keyboard Example ";
