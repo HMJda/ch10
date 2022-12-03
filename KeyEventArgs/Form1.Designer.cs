@@ -33,9 +33,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(99, 122);
+            this.button1.Location = new System.Drawing.Point(55, 53);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(129, 61);
             this.button1.TabIndex = 0;
             this.button1.Text = "테스트";
             this.button1.UseVisualStyleBackColor = true;
@@ -45,7 +45,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(341, 247);
+            this.ClientSize = new System.Drawing.Size(242, 147);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "KeyEventArgs";
