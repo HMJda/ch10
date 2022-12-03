@@ -65,7 +65,7 @@
             this.도움말HToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(398, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(397, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -130,7 +130,7 @@
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(233, 6);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(242, 6);
             // 
             // 인쇄PToolStripMenuItem
             // 
@@ -151,7 +151,7 @@
             // toolStripMenuItem2
             // 
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
-            this.toolStripMenuItem2.Size = new System.Drawing.Size(233, 6);
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(242, 6);
             // 
             // 종료XToolStripMenuItem
             // 
@@ -175,7 +175,7 @@
             // 
             this.잘라내기TToolStripMenuItem.Name = "잘라내기TToolStripMenuItem";
             this.잘라내기TToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.T)));
-            this.잘라내기TToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.잘라내기TToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
             this.잘라내기TToolStripMenuItem.Text = "잘라내기(&T)";
             this.잘라내기TToolStripMenuItem.Click += new System.EventHandler(this.잘라내기TToolStripMenuItem_Click);
             // 
@@ -183,7 +183,7 @@
             // 
             this.복사CToolStripMenuItem.Name = "복사CToolStripMenuItem";
             this.복사CToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.C)));
-            this.복사CToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.복사CToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
             this.복사CToolStripMenuItem.Text = "복사(&C)";
             this.복사CToolStripMenuItem.Click += new System.EventHandler(this.복사CToolStripMenuItem_Click);
             // 
@@ -191,7 +191,7 @@
             // 
             this.붙여넣기PToolStripMenuItem.Name = "붙여넣기PToolStripMenuItem";
             this.붙여넣기PToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.P)));
-            this.붙여넣기PToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.붙여넣기PToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
             this.붙여넣기PToolStripMenuItem.Text = "붙여넣기(&P)";
             this.붙여넣기PToolStripMenuItem.Click += new System.EventHandler(this.붙여넣기PToolStripMenuItem_Click);
             // 
@@ -207,7 +207,7 @@
             // 프로그램정보AToolStripMenuItem
             // 
             this.프로그램정보AToolStripMenuItem.Name = "프로그램정보AToolStripMenuItem";
-            this.프로그램정보AToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.프로그램정보AToolStripMenuItem.Size = new System.Drawing.Size(175, 22);
             this.프로그램정보AToolStripMenuItem.Text = "프로그램 정보(&A)...";
             this.프로그램정보AToolStripMenuItem.Click += new System.EventHandler(this.프로그램정보AToolStripMenuItem_Click);
             // 
@@ -293,7 +293,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(398, 278);
+            this.ClientSize = new System.Drawing.Size(397, 282);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button4);
