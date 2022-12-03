@@ -36,7 +36,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(36, 66);
+            this.label1.Location = new System.Drawing.Point(24, 12);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(53, 12);
             this.label1.TabIndex = 0;
@@ -44,7 +44,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(20, 96);
+            this.textBox1.Location = new System.Drawing.Point(8, 42);
             this.textBox1.Name = "textBox1";
             this.textBox1.PasswordChar = '*';
             this.textBox1.Size = new System.Drawing.Size(100, 21);
@@ -53,7 +53,7 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(157, 96);
+            this.textBox2.Location = new System.Drawing.Point(145, 42);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 21);
             this.textBox2.TabIndex = 1;
@@ -63,7 +63,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(292, 160);
+            this.ClientSize = new System.Drawing.Size(276, 92);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
