@@ -44,7 +44,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(38, 169);
+            this.textBox1.Location = new System.Drawing.Point(20, 96);
             this.textBox1.Name = "textBox1";
             this.textBox1.PasswordChar = '*';
             this.textBox1.Size = new System.Drawing.Size(100, 21);
@@ -53,7 +53,7 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(230, 169);
+            this.textBox2.Location = new System.Drawing.Point(157, 96);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 21);
             this.textBox2.TabIndex = 1;
@@ -63,7 +63,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(292, 160);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
