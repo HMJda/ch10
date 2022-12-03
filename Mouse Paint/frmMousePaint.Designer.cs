@@ -34,7 +34,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(638, 344);
             this.Name = "frmMousePaint";
             this.Text = "Paint with the Mouse";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmMousePaint_FormClosed);
