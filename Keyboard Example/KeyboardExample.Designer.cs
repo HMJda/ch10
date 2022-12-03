@@ -33,10 +33,10 @@
             // 
             // txtInput
             // 
-            this.txtInput.Location = new System.Drawing.Point(24, 80);
+            this.txtInput.Location = new System.Drawing.Point(12, 12);
             this.txtInput.Multiline = true;
             this.txtInput.Name = "txtInput";
-            this.txtInput.Size = new System.Drawing.Size(240, 120);
+            this.txtInput.Size = new System.Drawing.Size(274, 245);
             this.txtInput.TabIndex = 0;
             this.txtInput.TextChanged += new System.EventHandler(this.txtInput_TextChanged);
             this.txtInput.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtInput_KeyPress);
